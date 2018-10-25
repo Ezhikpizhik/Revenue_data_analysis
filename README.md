@@ -2,7 +2,7 @@
 
 Significance test of the incremental value for assigning a lead to the sales team was done.
 
-Z-test calculatiuons for the 95% confidence interval for the difference in the revenue mean of assigned and unassinged leads for every year. The significance test showed that with 95% confidence, the revenue difference between asssigned and unassigned leads for:
+Z-test calculatiuons for the 95% confidence interval for the difference in the revenue mean of assigned and unassinged leads for every year were done. The significance test showed that with 95% confidence, the revenue difference between the leads are:
 
 - Account age under 1 year: from $18.2M to $40.9M
 - Account age between 1 and 2 years: from $25.9M to $90.2M
